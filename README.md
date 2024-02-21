@@ -1,4 +1,4 @@
-This repository links to multiple sales, profit, and business forecast dashboards that use the Superstore data set from Tableau. 
+This repository links to multiple sales, profit, and business forecast dashboards that use the Superstore sales data set.
 
 
 Superstore Sales Analysis
